@@ -1,0 +1,14 @@
+c:\users\apascari\documents\visual studio 2015\Projects\EllipseMonitor\AzureMonitor.Console\bin\Debug\AzureMonitor.Console.dll
+c:\users\apascari\documents\visual studio 2015\Projects\EllipseMonitor\AzureMonitor.Console\bin\Debug\AzureMonitor.Console.pdb
+c:\users\apascari\documents\visual studio 2015\Projects\EllipseMonitor\AzureMonitor.Console\bin\Debug\EllipseMonitor.dll
+c:\users\apascari\documents\visual studio 2015\Projects\EllipseMonitor\AzureMonitor.Console\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+c:\users\apascari\documents\visual studio 2015\Projects\EllipseMonitor\AzureMonitor.Console\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+c:\users\apascari\documents\visual studio 2015\Projects\EllipseMonitor\AzureMonitor.Console\bin\Debug\Microsoft.Azure.Management.Compute.dll
+c:\users\apascari\documents\visual studio 2015\Projects\EllipseMonitor\AzureMonitor.Console\bin\Debug\Newtonsoft.Json.dll
+c:\users\apascari\documents\visual studio 2015\Projects\EllipseMonitor\AzureMonitor.Console\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.dll
+c:\users\apascari\documents\visual studio 2015\Projects\EllipseMonitor\AzureMonitor.Console\bin\Debug\EllipseMonitor.pdb
+c:\users\apascari\documents\visual studio 2015\Projects\EllipseMonitor\AzureMonitor.Console\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+c:\users\apascari\documents\visual studio 2015\Projects\EllipseMonitor\AzureMonitor.Console\bin\Debug\Newtonsoft.Json.xml
+c:\users\apascari\documents\visual studio 2015\Projects\EllipseMonitor\AzureMonitor.Console\obj\Debug\AzureMonitor.Console.csprojResolveAssemblyReference.cache
+c:\users\apascari\documents\visual studio 2015\Projects\EllipseMonitor\AzureMonitor.Console\obj\Debug\AzureMonitor.Console.dll
+c:\users\apascari\documents\visual studio 2015\Projects\EllipseMonitor\AzureMonitor.Console\obj\Debug\AzureMonitor.Console.pdb
